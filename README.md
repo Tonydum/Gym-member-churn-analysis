@@ -169,13 +169,15 @@ The dashboard includes:
 
 ## Key Insights
 
-1. Churn by Contract Period:
+1. Churn by Age:
+   
+- 18-25 Years: Highest churn rate at 66%.
+   
+- 36-41 Years: Lowest churn rate at 9%.
 
-- 42% churn for 1-month contracts highlights high risk among short-term members.
+- Insight: Younger members (18-30 years) are at a much higher risk of leaving the gym. Tailored engagement programs, such as fitness challenges and social events, can help retain this demographic.
 
-- Longer contracts (6-12 months) have minimal churn (2%).
-
-2. Churn by Lifetime:
+3. Churn by Lifetime:
 
 - Members with less than 3 months of membership have a churn rate of 42%.
 
