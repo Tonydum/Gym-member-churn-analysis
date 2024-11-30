@@ -169,7 +169,7 @@ The dashboard includes:
 
 ## Key Insights
 
-1. Churn by Gender:
+#### 1. Churn by Gender:
    
 - Male Churn Rate: Approximately 51% of churned members are male.
 
@@ -177,7 +177,7 @@ The dashboard includes:
 
 - The churn rate is fairly balanced between genders, suggesting churn mitigation strategies should target both genders equally.
 
-2. Churn by Age:
+#### 2. Churn by Age:
    
 - 18-25 Years: Highest churn rate at 66%.
    
@@ -185,7 +185,7 @@ The dashboard includes:
 
 - Younger members (18-30 years) are at a much higher risk of leaving the gym. Tailored engagement programs, such as fitness challenges and social events, can help retain this demographic.
 
-3. Churn by Contract Period:
+#### 3. Churn by Contract Period:
 
 - 1-Month Contracts: The highest churn rate at 42%.
 
@@ -195,7 +195,7 @@ The dashboard includes:
 
 - Members on shorter contracts are more likely to churn. Incentivizing longer-term contracts with discounts or added benefits could significantly reduce churn.
 
-4. Churn by Lifetime:
+#### 4. Churn by Lifetime:
 
 - Less than 3 Months: Highest churn rate at 42%.
 
@@ -205,7 +205,7 @@ The dashboard includes:
 
 - Members are most vulnerable to churn within the first three months. Strengthening onboarding programs and offering early engagement incentives are critical during this period.
 
-5. Churn by Class Frequency
+#### 5. Churn by Class Frequency
 
 - Low Frequency (≤1 visit/month): Churn rate at 35%.
 
@@ -216,7 +216,7 @@ The dashboard includes:
 - Members with higher class attendance are more engaged and less likely to churn. Encouraging consistent gym visits through rewards or personalized plans could boost retention.
 
 
-6. Churn by Additional Charges
+#### 6. Churn by Additional Charges
 
 - Low Spenders (<$50): Highest churn rate at 36%.
 
