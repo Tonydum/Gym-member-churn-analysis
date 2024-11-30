@@ -169,6 +169,8 @@ The dashboard includes:
 
 ## Key Insights
 
+![image](https://github.com/user-attachments/assets/08726a6b-929e-4875-8ef3-b4ffe5ad93f1)
+
 #### 1. Churn by Gender:
    
 - Male Churn Rate: Approximately 51% of churned members are male.
@@ -177,6 +179,8 @@ The dashboard includes:
 
 - The churn rate is fairly balanced between genders, suggesting churn mitigation strategies should target both genders equally.
 
+![image](https://github.com/user-attachments/assets/1ddcc8e0-421b-4ded-a581-417adde38150)
+
 #### 2. Churn by Age:
    
 - 18-25 Years: Highest churn rate at 66%.
@@ -184,6 +188,8 @@ The dashboard includes:
 - 36-41 Years: Lowest churn rate at 9%.
 
 - Younger members (18-30 years) are at a much higher risk of leaving the gym. Tailored engagement programs, such as fitness challenges and social events, can help retain this demographic.
+
+![image](https://github.com/user-attachments/assets/352f6336-b982-4fa3-b8fb-096e48ecc6e4)
 
 #### 3. Churn by Contract Period:
 
@@ -195,6 +201,8 @@ The dashboard includes:
 
 - Members on shorter contracts are more likely to churn. Incentivizing longer-term contracts with discounts or added benefits could significantly reduce churn.
 
+![image](https://github.com/user-attachments/assets/8fdfc1c0-da90-4279-b09e-83a19b60eed6)
+
 #### 4. Churn by Lifetime:
 
 - Less than 3 Months: Highest churn rate at 42%.
@@ -204,6 +212,8 @@ The dashboard includes:
 - 6-12 Months: Churn is negligible for members beyond 6 months.
 
 - Members are most vulnerable to churn within the first three months. Strengthening onboarding programs and offering early engagement incentives are critical during this period.
+
+![image](https://github.com/user-attachments/assets/21a669d3-40bb-489b-a35f-cb3d6a98cd3c)
 
 #### 5. Churn by Class Frequency
 
@@ -215,6 +225,7 @@ The dashboard includes:
 
 - Members with higher class attendance are more engaged and less likely to churn. Encouraging consistent gym visits through rewards or personalized plans could boost retention.
 
+![image](https://github.com/user-attachments/assets/e85b43a0-54e4-4a6b-8da4-1d6528ad8fa7)
 
 #### 6. Churn by Additional Charges
 
