@@ -169,31 +169,62 @@ The dashboard includes:
 
 ## Key Insights
 
-1. Churn by Age:
+1. Churn by Gender:
+   
+- Male Churn Rate: Approximately 51% of churned members are male.
+
+- Female Churn Rate: The remaining 49% are female.
+
+- The churn rate is fairly balanced between genders, suggesting churn mitigation strategies should target both genders equally.
+
+2. Churn by Age:
    
 - 18-25 Years: Highest churn rate at 66%.
    
 - 36-41 Years: Lowest churn rate at 9%.
 
-- Insight: Younger members (18-30 years) are at a much higher risk of leaving the gym. Tailored engagement programs, such as fitness challenges and social events, can help retain this demographic.
+- Younger members (18-30 years) are at a much higher risk of leaving the gym. Tailored engagement programs, such as fitness challenges and social events, can help retain this demographic.
 
-3. Churn by Lifetime:
+3. Churn by Contract Period:
 
-- Members with less than 3 months of membership have a churn rate of 42%.
+- 1-Month Contracts: The highest churn rate at 42%.
 
-3. Churn by Age:
+- 1-6 Month Contracts: Moderate churn rate at 12%.
 
-- Younger members (18-25 years) churn the most (66%), while older members (36-41 years) churn the least (9%).
+- 6-12 Month Contracts: Lowest churn rate at 2%.
 
-4. Churn by Class Frequency:
+- Members on shorter contracts are more likely to churn. Incentivizing longer-term contracts with discounts or added benefits could significantly reduce churn.
 
-- Medium and low attendance lead to higher churn rates (37% and 35%).
+4. Churn by Lifetime:
 
-- High attendance correlates with lower churn (14%).
+- Less than 3 Months: Highest churn rate at 42%.
 
-5. Churn by Additional Charges:
+- 3-6 Months: Churn rate decreases to 4%.
 
-- Low Spenders have the highest churn rate (36%), while High Spenders churn at 18%.
+- 6-12 Months: Churn is negligible for members beyond 6 months.
+
+- Members are most vulnerable to churn within the first three months. Strengthening onboarding programs and offering early engagement incentives are critical during this period.
+
+5. Churn by Class Frequency
+
+- Low Frequency (≤1 visit/month): Churn rate at 35%.
+
+- Medium Frequency (1-2 visits/month): Churn rate at 37%.
+
+- High Frequency (>2 visits/month): Lowest churn rate at 14%.
+
+- Members with higher class attendance are more engaged and less likely to churn. Encouraging consistent gym visits through rewards or personalized plans could boost retention.
+
+
+6. Churn by Additional Charges
+
+- Low Spenders (<$50): Highest churn rate at 36%.
+
+- Medium Spenders ($50-$150): Churn rate at 32%.
+
+- High Spenders (>$150): Lowest churn rate at 18%.
+
+- Members who spend more on additional services, such as personal training or nutrition counseling, are less likely to leave. Promoting these services through bundled packages or trials can increase engagement.
 
 ## Dashboard
 
