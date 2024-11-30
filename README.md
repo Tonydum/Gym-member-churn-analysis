@@ -228,8 +228,7 @@ The dashboard includes:
 
 ## Dashboard
 
-![image](https://github.com/user-attachments/assets/928f9cf2-9eed-4e36-8526-649ccea128fe)
-
+![image](https://github.com/user-attachments/assets/02863b61-f392-41d6-853e-32074dae3836)
 
 ## Recommendations
 
