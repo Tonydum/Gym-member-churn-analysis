@@ -25,15 +25,15 @@ As a data analyst, I undertook this project to address a critical challenge face
 
 This project explores key drivers of gym member churn, leveraging Power BI and DAX to analyze metrics like contract period, class frequency, lifetime, additional charges, and proximity to the gym. A comprehensive dashboard was created to visualize these factors, highlighting trends such as:
 
-Churn by Contract Period: 42% churn for 1-month contracts, with minimal churn (2%) for 6-12 month contracts.
+- Churn by Contract Period: 42% churn for 1-month contracts, with minimal churn (2%) for 6-12 month contracts.
 
-Churn by Lifetime: Members with less than 3 months of membership have a churn rate of 42%.
+- Churn by Lifetime: Members with less than 3 months of membership have a churn rate of 42%.
 
-Churn by Age: Younger members (18-25 years) churn the most (66%), while older members (36-41 years) churn the least (9%).
+- Churn by Age: Younger members (18-25 years) churn the most (66%), while older members (36-41 years) churn the least (9%).
 
-Churn by Class Frequency: Medium and low attendance lead to higher churn rates (37% and 35%), while high attendance correlates with lower churn (14%).
+- Churn by Class Frequency: Medium and low attendance lead to higher churn rates (37% and 35%), while high attendance correlates with lower churn (14%).
 
-Churn by Additional Charges: Low Spenders churn at 36%, while High Spenders churn at only 18%.
+- Churn by Additional Charges: Low Spenders churn at 36%, while High Spenders churn at only 18%.
 
 Based on these findings, actionable recommendations were developed to target high-risk segments and improve member retention.
 
@@ -41,11 +41,11 @@ Based on these findings, actionable recommendations were developed to target hig
 
 The primary objective of this project was to:
 
-Identify the key factors contributing to member churn.
+1. Identify the key factors contributing to member churn.
 
-Segment members into risk categories for targeted interventions.
+2. Segment members into risk categories for targeted interventions.
 
-Provide actionable insights to improve member retention and satisfaction.
+3. Provide actionable insights to improve member retention and satisfaction.
 
 ## Key Metrics Analyzed
 
