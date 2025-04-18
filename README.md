@@ -4,6 +4,7 @@
 
 - [Project Background](#project-background)
 - [Executive Summary](#executive-summary)
+- [Dashboard](#dashboard)
 - [Objective](#objective)
 - [Key Metrics Analyzed](#key-metrics-analyzed)
 - [Technologies Used](#technologies-used)
@@ -14,7 +15,6 @@
   - [DAX Calculations](#dax-calculations)
 - [Visualization](#visualization)
 - [Key Insights](#key-insights)
-- [Dashboard](#dashboard)
 - [Recommendations](#recommendations)
 
 ## Project Background
@@ -36,6 +36,10 @@ This project explores key drivers of gym member churn, leveraging Power BI and D
 - Churn by Additional Charges: Low Spenders churn at 36%, while High Spenders churn at only 18%.
 
 Based on these findings, actionable recommendations were developed to target high-risk segments and improve member retention.
+
+## Dashboard
+
+![image](https://github.com/user-attachments/assets/02863b61-f392-41d6-853e-32074dae3836)
 
 ## Objective
 
@@ -236,10 +240,6 @@ The dashboard includes:
 - High Spenders (>$150): Lowest churn rate at 18%.
 
 - Members who spend more on additional services, such as personal training or nutrition counseling, are less likely to leave. Promoting these services through bundled packages or trials can increase engagement.
-
-## Dashboard
-
-![image](https://github.com/user-attachments/assets/02863b61-f392-41d6-853e-32074dae3836)
 
 ## Recommendations
 
