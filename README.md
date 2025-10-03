@@ -39,12 +39,23 @@ Churn is a critical metric for subscription-based businesses, as reducing attrit
 Since this was a flat table, KPIs were derived using calculated columns and measures in Power BI:  
 - **Churn Rate** = (# Churned ÷ Total Members)  
 - **Retention Rate** = 1 – Churn Rate  
-- **Average Tenure** = AVERAGE(Tenure)  
+- **Average additional Charges** = AVERAGE(Additional charges)  
 - **Churn by Segment** = breakdowns by contract type, age group, gender, and activity levels  
 
 ```DAX
-Churn Rate = DIVIDE(gym_churn[Churned Members], gym_churn[Total Members])
+Total Members = COUNTROWS(gym_churn)
 Churned Members = CALCULATE(gym_churn[Total Members], gym_churn[Churn_label] = "Yes")
+Active Members = CALCULATE(gym_churn[Total Members], gym_churn[Churn_label] = "No")
+Churn Rate = DIVIDE(gym_churn[Churned Members], gym_churn[Total Members])
+
+AgeCategory = 
+SWITCH(
+    TRUE(),
+    gym_churn[Age] < 25 && gym_churn[Age] <= 25, "18-25 years",
+    gym_churn[Age] < 26 && gym_churn[Age] <= 30, "26-30 years",
+    gym_churn[Age] < 31 && gym_churn[Age] <= 35, "31-35 years",
+    "36-41 years"
+)
 
 ContractPeriodCategory = 
 SWITCH(
@@ -74,12 +85,11 @@ Demographic Insights → Younger members churn faster than older, long-tenure me
 
 Engagement Impact → Members attending more classes had significantly lower churn rates.
 
-Revenue Risk → Estimated $X monthly revenue at risk due to attrition.
 
 Screenshots
 
 
-![image](https://github.com/user-attachments/assets/352f6336-b982-4fa3-b8fb-096e48ecc6e4)<img width="798" height="23" alt="image" src="https://github.com/user-attachments/assets/10a94025-93c7-45eb-bd89-4be7e5e1cd86" />
+![image](https://github.com/user-attachments/assets/352f6336-b982-4fa3-b8fb-096e48ecc6e4)
 
 
 ![image](https://github.com/user-attachments/assets/e85b43a0-54e4-4a6b-8da4-1d6528ad8fa7)<img width="807" height="23" alt="image" src="https://github.com/user-attachments/assets/48aff352-51b2-42ed-868a-f7270e716cc7" />
