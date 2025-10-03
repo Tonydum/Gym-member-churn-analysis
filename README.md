@@ -7,8 +7,9 @@
 4. [KPIs & Measures](#-kpis--measures)  
 5. [Dashboard Highlights](#-dashboard-highlights)  
 6. [Business Impact](#-business-impact)  
-7. [How to Use](#-how-to-use)  
-8. [Next Steps](#-next-steps)  
+7. [Recommendations](#-recommendations)  
+8. [How to Use](#-how-to-use)  
+9. [Next Steps](#-next-steps)  
 
 ---
 
@@ -103,14 +104,24 @@ Screenshots
 
 
 ## 💡 Business Impact
-Identified high-risk customer segments for targeted retention campaigns.
 
-Demonstrated the link between engagement and loyalty, helping managers focus on increasing class attendance.
+Showed that month-to-month members are leaving the most, which hurts revenue.
 
-Quantified the financial cost of churn, supporting data-driven decisions for retention budgeting.
+Found that younger members and those with low attendance are more likely to leave.
 
-Suggested initiatives like contract incentives and loyalty rewards to improve retention.
+Calculated the revenue being lost each month due to churn.
 
+Proved that members who attend more classes stay longer.
+
+## 📝 Recommendations
+
+Offer discounts or rewards to month-to-month members who switch to longer contracts.
+
+Create programs that encourage more class attendance (challenges, rewards for consistency).
+
+Use a churn prediction tool to flag members who might leave soon and reach out early.
+
+Review these churn KPIs every month to see if actions are working.
 
 ## 🚀 How to Use
 
