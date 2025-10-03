@@ -89,12 +89,31 @@ Engagement Impact → Members attending more classes had significantly lower chu
 
 Screenshots
 
+Churn by Age Group
+
+Insight: Younger members (18–30) leave at a higher rate compared to older members, who tend to stay longer.
+
+![image](https://github.com/user-attachments/assets/08726a6b-929e-4875-8ef3-b4ffe5ad93f1)
+
+
+Churn by Contract Type
+
+
+Insight: Month-to-month members have the highest churn rate, while yearly contracts show stronger retention.
 
 ![image](https://github.com/user-attachments/assets/352f6336-b982-4fa3-b8fb-096e48ecc6e4)
+
+Churn by Tenure
+
+Insight: Most churn happens within the first 6 months of joining. Long-term members show strong loyalty.
 
 
 ![image](https://github.com/user-attachments/assets/e85b43a0-54e4-4a6b-8da4-1d6528ad8fa7)
 
+
+Engagement vs. Churn
+
+Insight: Members who attend more than 8 classes per month are far less likely to churn compared to those with low attendance.
 
 ![image](https://github.com/user-attachments/assets/8fdfc1c0-da90-4279-b09e-83a19b60eed6)
 
