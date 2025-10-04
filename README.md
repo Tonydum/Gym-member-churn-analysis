@@ -107,7 +107,7 @@ Insight: Month-to-month members have the highest churn rate, while yearly contra
 
 Churn by Tenure
 
-Insight: Most churn happens within the first 6 months of joining. Long-term members show strong loyalty.
+Insight: Most churn happens within the first 3 months of joining. Long-term members show strong loyalty.
 
 
 ![image](https://github.com/user-attachments/assets/8fdfc1c0-da90-4279-b09e-83a19b60eed6)
@@ -132,8 +132,6 @@ Insight: Members who attend more than 8 classes per month are far less likely to
 Showed that month-to-month members are leaving the most, which hurts revenue.
 
 Found that younger members and those with low attendance are more likely to leave.
-
-Calculated the revenue being lost each month due to churn.
 
 Proved that members who attend more classes stay longer.
 
