@@ -1,4 +1,4 @@
-# 🏋️ Gym Member Churn Analysis  
+# Gym Member Churn Analysis  
 
 ## 📑 Table of Contents
 1. [Project Overview](#-project-overview)  
@@ -13,13 +13,13 @@
 
 ---
 
-## 📌 Project Overview  
+## Project Overview  
 This project analyzes gym membership churn to identify patterns, predict attrition risk, and recommend retention strategies. 
 Churn is a critical metric for subscription-based businesses, as reducing attrition directly improves customer lifetime value and profitability.  
 
 ---
 
-## 📊 Dataset  
+## Dataset  
 - **Source**: Public gym membership dataset (single flat file).  
 - **Rows**: 4000 records | **Columns**: 14 features  
 - **Features include**:  
@@ -30,13 +30,13 @@ Churn is a critical metric for subscription-based businesses, as reducing attrit
 
 ---
 
-## 🛠️ Tools & Skills Used  
+## Tools & Skills Used  
 - **Power BI**: Data cleaning, DAX measures, and dashboard creation  
 - **Excel**: Initial exploration  
 
 ---
 
-## 📈 KPIs & Measures  
+## KPIs & Measures  
 Since this was a flat table, KPIs were derived using calculated columns and measures in Power BI:  
 - **Churn Rate** = (# Churned ÷ Total Members)  
 - **Retention Rate** = 1 – Churn Rate  
@@ -77,7 +77,7 @@ SWITCH(
 ```
 
 
-## 📊 Dashboard Highlights
+## Dashboard Highlights
 Key visuals from the Power BI dashboard:
 
 Churn by Contract Type → Month-to-month contracts had the highest churn.
@@ -127,7 +127,7 @@ Insight: Members who attend more than 8 classes per month are far less likely to
 
 
 
-## 💡 Business Impact
+## Business Impact
 
 Showed that month-to-month members are leaving the most, which hurts revenue.
 
@@ -135,7 +135,7 @@ Found that younger members and those with low attendance are more likely to leav
 
 Proved that members who attend more classes stay longer.
 
-## 📝 Recommendations
+## Recommendations
 
 Offer discounts or rewards to month-to-month members who switch to longer contracts.
 
@@ -145,7 +145,7 @@ Use a churn prediction tool to flag members who might leave soon and reach out e
 
 Review these churn KPIs every month to see if actions are working.
 
-## 🚀 How to Use
+## How to Use
 
 Clone or download the repository.
 
@@ -154,7 +154,7 @@ Open the Gym-Churn-Analysis.pbix file in Power BI Desktop.
 No data connection required — the dataset (CSV) is included and already loaded.
 
 
-## 📌 Next Steps
+## Next Steps
 
 Add a predictive churn probability model (Python + Power BI integration).
 
