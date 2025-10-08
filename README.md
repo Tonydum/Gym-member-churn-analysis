@@ -125,6 +125,8 @@ Insight: Members who attend more than 8 classes per month are far less likely to
 
 ![image](https://github.com/user-attachments/assets/02863b61-f392-41d6-853e-32074dae3836)
 
+![Main_Dashboard](https://github.com/user-attachments/assets/e07832e0-af2d-4c8a-b593-73896d3d1eaa)
+
 
 
 ## Business Impact
